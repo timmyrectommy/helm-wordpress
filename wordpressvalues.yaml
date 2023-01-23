@@ -1,0 +1,9 @@
+wordpressUsername: helm-user
+wordpressPassword: my-pass
+wordpressEmail: timmyrectommy@gmail.com
+wordpressFirstName: helm
+wordpressLastName: helm
+wordpressBlogName: helm
+
+service:
+   type: NodePort
